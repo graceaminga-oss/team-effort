@@ -10,3 +10,4 @@ git push
 git pull
 git clone {ssh}
 we have created a new branch name -dev. Its now ready to push.
+created another branch called dev..three more branches to go
